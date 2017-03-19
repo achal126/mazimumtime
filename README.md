@@ -4,4 +4,4 @@ Python 2.7.2
 
 Usage:
 
-Solution(1,2,3,4)
+print Solution(1,2,3,4)
