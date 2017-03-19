@@ -40,5 +40,3 @@ def Solution(A,B,C,D):
             abc = minutes(num[0], num[1])
             time = str(xyz) + ":" + str(abc)
     return time
-
-print Solution(2,3,5,8)
